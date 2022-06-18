@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/finalPriceFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_final_price"
+        android:title="Final price"/>
+    <item
+        android:id="@+id/dutchPayFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_dutch_pay"
+        android:title="Dutch Pay"/>
+</menu>
